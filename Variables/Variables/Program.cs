@@ -27,6 +27,17 @@ namespace Variables
             float f2 = 5.1f;
             float fDiv = f1 / f2;
             Console.WriteLine(fDiv);
-        }
+
+            //Double is more precise than float
+            
+            //Strings 
+            string myname = "Akosczuel";
+
+            string message = "My name is " + myname;
+
+            string messageToLower = message.ToLower();
+
+            Console.WriteLine(messageToLower);
+}
     }
 }
