@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{11B2F9CD-AD9B-4CA1-8E36-E1C749CEA209}</ProjectGuid>
+    <ProjectGuid>{5CE7C0AC-335B-4E64-83FD-2401C3CFD34F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Challenge___Datatypes_And_Variables</RootNamespace>
-    <AssemblyName>Challenge - Datatypes And Variables</AssemblyName>
+    <RootNamespace>Constants</RootNamespace>
+    <AssemblyName>Constants</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
