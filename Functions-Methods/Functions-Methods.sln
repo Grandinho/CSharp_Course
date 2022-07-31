@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsWithReturnValue", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsFirstChallenge", "MethodsFirstChallenge\MethodsFirstChallenge.csproj", "{5CE4D121-8B7A-4058-B2F4-AB9C5C82050C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsSecondChallenge", "MethodsSecondChallenge\MethodsSecondChallenge.csproj", "{D20C593E-B330-4B83-BDD8-D922C792E3D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5CE4D121-8B7A-4058-B2F4-AB9C5C82050C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CE4D121-8B7A-4058-B2F4-AB9C5C82050C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CE4D121-8B7A-4058-B2F4-AB9C5C82050C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20C593E-B330-4B83-BDD8-D922C792E3D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20C593E-B330-4B83-BDD8-D922C792E3D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20C593E-B330-4B83-BDD8-D922C792E3D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20C593E-B330-4B83-BDD8-D922C792E3D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

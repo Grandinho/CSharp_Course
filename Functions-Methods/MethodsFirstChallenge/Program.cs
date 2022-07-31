@@ -20,7 +20,7 @@ namespace MethodsFirstChallenge
 
         }
 
-        static void GreetFriends(string _friendName)
+        public static void GreetFriends(string _friendName)
         {
             Console.WriteLine("Hi {0}, my friend!", _friendName);
         }
