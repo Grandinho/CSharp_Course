@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoidMethods", "VoidMethods\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsWithReturnValue", "MethodsWithReturnValue\MethodsWithReturnValue.csproj", "{9D43B5AA-59E4-435C-9302-D76F11C8CE69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsFirstChallenge", "MethodsFirstChallenge\MethodsFirstChallenge.csproj", "{5CE4D121-8B7A-4058-B2F4-AB9C5C82050C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9D43B5AA-59E4-435C-9302-D76F11C8CE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D43B5AA-59E4-435C-9302-D76F11C8CE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D43B5AA-59E4-435C-9302-D76F11C8CE69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE4D121-8B7A-4058-B2F4-AB9C5C82050C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE4D121-8B7A-4058-B2F4-AB9C5C82050C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE4D121-8B7A-4058-B2F4-AB9C5C82050C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE4D121-8B7A-4058-B2F4-AB9C5C82050C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
